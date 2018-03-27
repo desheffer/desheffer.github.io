@@ -1,0 +1,10 @@
+title: Doug Sheffer
+url: https://www.dougsheffer.com
+author:
+    name: Doug Sheffer
+
+sass:
+    sass_dir: _scss
+    style: :compressed
+
+highlighter: rouge
